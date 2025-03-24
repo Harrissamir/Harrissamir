@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **SQL**
 
-- 📝 I regularly write articles on [medium.com](medium.com)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@samir.harris)
 
 - 💬 Ask me about **python**
 
