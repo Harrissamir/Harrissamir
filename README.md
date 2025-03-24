@@ -1,4 +1,4 @@
-![logo](https://github.com/Harrissamir/Harrissamir/blob/main/Banner.gif)
+![logo](https://github.com/Harrissamir/Harrissamir/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Samir Harris</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
