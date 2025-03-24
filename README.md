@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gold_blade1" target="blank"><img src="https://img.shields.io/twitter/follow/@gold_blade1?logo=twitter&style=for-the-badge" alt="@gold_blade1" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbot,creating APIs, Modeling legal Python libraries**
+- 🔭 I’m currently working on **HR Analytics,Chatbot,creating APIs,Modeling legal Python libraries**
 
 - 🌱 I’m currently learning **Django Framework**
 
