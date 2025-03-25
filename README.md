@@ -43,6 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrissamir&show_icons=true&locale=en" alt="harrissamir" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrissamir&" alt="harrissamir" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harrissamir/Harrissamir/output/github-snake-dark.svg" />
