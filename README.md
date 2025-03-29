@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **AI, ML and NLP Projects**
 
-- 🤝 I’m looking for help with **SQL**
+- 🤝 I’m looking for help with **SQL,Quantum Computing**
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@samir.harris)
 
