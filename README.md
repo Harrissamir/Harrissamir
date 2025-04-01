@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I think I am funny sometimes😎.**
 
-- 💬 Contact me [Schedule](https://cal.com/samir-harris-wvz9gd)
+- 💬 Contact me [Contact](https://cal.com/samir-harris-wvz9gd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
