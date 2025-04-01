@@ -26,6 +26,8 @@
 
 - ⚡ Fun fact **I think I am funny sometimes😎.**
 
+- 💬 Contact me **https://cal.com/samir-harris-wvz9gd**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gold_blade1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gold_blade1" height="30" width="40" /></a>
