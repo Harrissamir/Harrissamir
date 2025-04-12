@@ -1,6 +1,6 @@
 ![logo](https://github.com/Harrissamir/Harrissamir/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Samir Harris</h1>
-<h3 align="center">A passionate Human Resources & Software developer from India</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
 
